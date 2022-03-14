@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLab", "LinqLab\LinqLab.csproj", "{96B28BCF-A19C-44FA-B9EF-F89CD62C18B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLabTests", "LinqLabTests\LinqLabTests.csproj", "{450AA002-F368-450A-95A9-412DB0F0F2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B28BCF-A19C-44FA-B9EF-F89CD62C18B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B28BCF-A19C-44FA-B9EF-F89CD62C18B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B28BCF-A19C-44FA-B9EF-F89CD62C18B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B28BCF-A19C-44FA-B9EF-F89CD62C18B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450AA002-F368-450A-95A9-412DB0F0F2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450AA002-F368-450A-95A9-412DB0F0F2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450AA002-F368-450A-95A9-412DB0F0F2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450AA002-F368-450A-95A9-412DB0F0F2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6587E677-7AB5-48CF-8D10-A9836B3A9A66}
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = b7c19a19-8db1-4ee0-bce1-5d7f8c0ce470
+	EndGlobalSection
+EndGlobal
